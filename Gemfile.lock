@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rack (1.5.2)
+    rulers_kwick6 (0.0.2)
+      rack
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rulers_kwick6
